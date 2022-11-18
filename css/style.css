@@ -1,0 +1,35 @@
+
+.global{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    max-width: 240px;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.img-small{
+    flex: 1;
+    height: 200px!important;
+}
+
+.img-mid{
+    flex: 2;
+    height: 300px!important;
+}
+.img-large{
+    flex: 3;
+    height: 400px!important;
+}
