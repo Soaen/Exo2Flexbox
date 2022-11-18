@@ -5,6 +5,7 @@
     align-items: flex-start;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -29,6 +30,7 @@ img{
     flex: 2;
     height: 300px!important;
 }
+
 .img-large{
     flex: 3;
     height: 400px!important;
