@@ -32,3 +32,11 @@ img{
 .img-large{
     height: 400px;
 }
+
+div p{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 250px;
+}
