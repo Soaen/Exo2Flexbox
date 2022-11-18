@@ -22,16 +22,13 @@ img{
 }
 
 .img-small{
-    flex: 1;
-    height: 200px!important;
+    height: 200px;
 }
 
 .img-mid{
-    flex: 2;
-    height: 300px!important;
+    height: 300px;
 }
 
 .img-large{
-    flex: 3;
-    height: 400px!important;
+    height: 400px;
 }
